@@ -1,0 +1,9 @@
+{
+  "name": "bungo-buster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "AGPL",
+  "dependencies": {
+    "web-ext": "^7.5.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "bungo-buster",
+  "description": "bungo-buster",
+  "version": "0.0.1",
+  "icons": {
+    "64": "icons/icon.png"
+  },
+  "background": {
+    "scripts": ["background_script.js"]
+  },
+  "permissions": ["webRequest", "webRequestBlocking"],
+  "host_permissions": ["*://*/*"]
+}
